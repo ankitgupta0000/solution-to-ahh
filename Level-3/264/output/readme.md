@@ -1,0 +1,1 @@
+I read a lot about .264 extension of files. There are some tools like AVIConverter which can convert .264 files to AVI which can further be converted to mp4 but these files have nothing even AVI converters couldn't work with these.
